@@ -2,8 +2,13 @@
 content_type: resource
 description: Assignment to create a Monte Carlo "engineering analysis" of value of
   flexibility for a real estate or infrastructure development project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/ad55c8ef35f04e28086293bad727fa98_MITESD_712S10_proj04.pdf
+file: /media/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/ad55c8ef35f04e28086293bad727fa98_MITESD_712S10_proj04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment: Monte Carlo "engineering analysis" of value of flexibility'
 uid: ad55c8ef-35f0-4e28-0862-93bad727fa98
