@@ -6,6 +6,7 @@ file: /courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastruc
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment: "Roadmap" for your project, & Excel model of uncertainties'
 uid: eb74c739-3b64-9368-07fe-1c5f35fff0f5
 ---
 Assignment to create a "roadmap" and an Excel model of uncertainties for a real estate or infrastructure development project.
-

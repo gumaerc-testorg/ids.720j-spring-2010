@@ -7,6 +7,7 @@ file: /courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastruc
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,6 +17,4 @@ title: 'Assignment: Final Report'
 uid: 3bbde3ad-6f70-fa33-b641-1c17ddcbcb8d
 ---
 Assignment to create a final report demonstrating your understanding of the use of real options in real estate and infrastructure development. 
-
-
 

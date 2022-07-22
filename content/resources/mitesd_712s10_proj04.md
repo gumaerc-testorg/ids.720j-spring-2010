@@ -6,6 +6,7 @@ file: /courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastruc
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment: Monte Carlo "engineering analysis" of value of flexibility'
 uid: ad55c8ef-35f0-4e28-0862-93bad727fa98
 ---
 Assignment to create a Monte Carlo "engineering analysis" of value of flexibility for a real estate or infrastructure development project.
-

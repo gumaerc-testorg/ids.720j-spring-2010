@@ -6,6 +6,7 @@ file: /courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastruc
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment: Teams Identify and Estimate Major Uncertainties for Projects
 uid: d8b3e19a-fbef-10c1-51ca-2cd75d25cd65
 ---
 Assignment to identify and estimate major uncertainties for a real estate or infrastructure development project.
-
