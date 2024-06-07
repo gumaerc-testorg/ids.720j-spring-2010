@@ -4,6 +4,7 @@ description: "Assignment to create a final report demonstrating your understandi
   \ of the use of real options in real estate and infrastructure development. \r\n\
   \r\n"
 file: /courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/3bbde3ad6f70fa33b6411c17ddcbcb8d_MITESD_712S10_proj06.pdf
+file_size: 34464
 file_type: application/pdf
 learning_resource_types:
 - Projects
