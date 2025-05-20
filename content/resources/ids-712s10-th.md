@@ -5,7 +5,7 @@ description: 'The development of the Songdo International Business District, als
   ever undertaken. This course considers the design of Songdo City in the context
   of real estate and infrastructure development. (Image available at Wikipedia and
   is in the public domain.) '
-file: /ol-ocw-studio-app/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/7568687842e74a2a887eff9ec3d0dc02_ids-712s10-th.jpg
+file: /courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/7568687842e74a2a887eff9ec3d0dc02_ids-712s10-th.jpg
 file_size: 5681
 file_type: image/jpeg
 image_metadata:
