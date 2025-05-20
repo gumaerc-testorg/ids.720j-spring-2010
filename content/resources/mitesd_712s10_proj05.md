@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to draft a final report for a real estate or infrastructure
   development project.
-file: /ol-ocw-studio-app/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/270a942af77a249c8c4cc1e06b212354_MITESD_712S10_proj05.pdf
+file: /courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/270a942af77a249c8c4cc1e06b212354_MITESD_712S10_proj05.pdf
 file_size: 40814
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to identify and estimate major uncertainties for a real estate
   or infrastructure development project.
-file: /ol-ocw-studio-app/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/d8b3e19afbef10c151ca2cd75d25cd65_MITESD_712S10_proj02.pdf
+file: /courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/d8b3e19afbef10c151ca2cd75d25cd65_MITESD_712S10_proj02.pdf
 file_size: 47329
 file_type: application/pdf
 learning_resource_types:
