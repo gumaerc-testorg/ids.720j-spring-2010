@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to select a real estate or infrastructure development project
   to analyze.
-file: /courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/602849273eb4c801bc9527cb98cf98ab_MITESD_712S10_proj01.pdf
+file: /ol-ocw-studio-app/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/602849273eb4c801bc9527cb98cf98ab_MITESD_712S10_proj01.pdf
 file_size: 38833
 file_type: application/pdf
 learning_resource_types:
